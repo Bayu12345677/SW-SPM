@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/Bayu12345677/SW-SPM/blob/master/png/LO.png" width="300"><br>
   <img src="https://img.shields.io/static/v1?label=Bash+Scripting&color=green&message=+&logo=GNU+Bash&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Bayu+Rizky+A.M&logo=Acclaim&logoColor=white&style=for-the-badge"><br>
   <img src="https://img.shields.io/github/stars/Bayu12345677/SW-SPM?logo=github&style=for-the-badge">
