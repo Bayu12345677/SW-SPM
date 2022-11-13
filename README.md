@@ -16,7 +16,7 @@ script ini bisa berjalan secara terus menerus dalam sekali berjalan
 # wajib di directory home
 apt-get update
 apt-get upgrade
-apt-get install git ossp-uuid xh cmake clang make
+apt-get install git ossp-uuid xh cmake clang make ncurses-utils
 git clone https://github.com/Bayu12345677/SW-SPM.git
 cd SW-SPM
 bash build.shell build
